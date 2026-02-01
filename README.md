@@ -1,4 +1,4 @@
-NOTE: THIS REPOSITORY incorporates mmstano'S PRs to eliminate the color_temp v. color_temp_kelvin log errors.
+NOTE: THIS REPOSITORY incorporates mmstano's PRs to eliminate the color_temp v. color_temp_kelvin log errors.
 
 Cync Lights Custom Integration
 ============
